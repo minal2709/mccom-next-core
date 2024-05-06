@@ -1,3 +1,10 @@
+# 1.0.0 (2024-05-06)
+
+
+### Features
+
+* initial commit ([8674cc2](https://github.com/minal2709/mccom-next-core/commit/8674cc2f7066672abf2b3e1dc1dc82d1018e3367))
+
 # [3.46.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.45.0...v3.46.0) (2024-04-13)
 
 
